@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,600;1,300&display=swap');
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+#home-title {
+    text-align: center;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.recipe-pages {
+    list-style: none;
+}
+.page-title {
+    text-transform: capitalize;
+
+}
+img {
+    height: auto;
+    width: 450px;
+}
